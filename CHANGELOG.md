@@ -7,6 +7,7 @@
 
 ### Added
 - COEIROINKの新APIに対応
+- DAVEプロトコルをサポート
 ### Changed
 - vnickコマンドで空引数時にリセット可能に
 - Java25に移行

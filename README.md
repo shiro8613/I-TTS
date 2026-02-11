@@ -24,9 +24,10 @@ VOICEVOXとCOEIROINK、SHAREVOXは自分でエンジンを起動しておく必�
 ## 動作環境
 
 - Java25
-- [LavaPlayer](https://github.com/walkyst/lavaplayer-fork)と[JDA](https://github.com/DV8FromTheWorld/JDA)が対応しているプラットフォーム
+- [LavaPlayer](https://github.com/walkyst/lavaplayer-fork)と[JDA](https://github.com/DV8FromTheWorld/JDA)、[JDAVE](https://github.com/MinnDevelopment/jdave)が対応しているプラットフォーム
 
 Windows(amd64)とLinux(amd64,arm64)で動作確認済み。  
+Linuxで動作させる場合は、GLIBCXX_3.4.32 および GLIBC_2.38 を含む Debian 13 または Ubuntu 24.04 以降を使用してください。  
 VOICEVOXとCOEIROINK、SHAREVOXを利用する場合はそれぞれが対応してる環境が必要です。
 
 ## 起動方法
